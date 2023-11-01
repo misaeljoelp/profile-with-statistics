@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/misaeljoelp/profile-with-statistics )
-- Live Site URL: [Github pages](https://misaeljoelp.github.io/profile-with-statistics /)
+- Live Site URL: [Github pages](https://misaeljoelp.github.io/profile-with-statistics/)
 
 ## My process
 
